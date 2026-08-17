@@ -19,7 +19,7 @@ README 작성/
 
 아래 주소로 접속하면 바로 확인할 수 있습니다.
 
-👉 https://donghyeok-91.github.io/my-portfolio/
+👉 https://donghyeok-91.github.io/Homework-4Week/
 
 ### 방법 2. 내 컴퓨터에서 직접 열기
 
